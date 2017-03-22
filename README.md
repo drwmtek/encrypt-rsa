@@ -1,4 +1,5 @@
 # encrypt-rsa
 
-Install Python 3.
-Command-Line: python3 rsa.py
+Download and install Python 3. https://www.python.org/downloads/
+
+Run in Command-Line: python3 rsa.py
